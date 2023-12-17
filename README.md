@@ -16,7 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiennh23&show_icons=true&locale=en&layout=compact" alt="thiennh23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiennh23&show_icons=true&locale=en" alt="thiennh23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiennh23&" alt="thiennh23" /></p>
-
